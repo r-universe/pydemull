@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "activAnalyzer"]
 	path = activAnalyzer
 	url = https://github.com/pydemull/activanalyzer
-	shallow = true
-	registered = true
